@@ -1,0 +1,40 @@
+[1mdiff --git a/Readme.md b/Readme.md[m
+[1mindex d450759..e69de29 100644[m
+[1m--- a/Readme.md[m
+[1m+++ b/Readme.md[m
+[36m@@ -1,34 +0,0 @@[m
+[31m-Este es mi primer proyecto en Git[m
+[31m-[m
+[31m-# Mi Proyecto en Git[m
+[31m-[m
+[31m-## Ejercicio 1: Inicialización del Repositorio[m
+[31m-[m
+[31m-1. Crea una nueva carpeta en tu máquina local llamada mi-proyecto.[m
+[31m-2. Navega a mi-proyecto en la terminal.[m
+[31m-3. Inicializa un nuevo repositorio Git con el siguiente comando:[m
+[31m-[m
+[31m-    ```bash[m
+[31m-    git init[m
+[31m-[m
+[31m-[Enlace a Google](https://www.google.com)[m
+[31m-[m
+[31m-![Logo de Git](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)[m
+[31m-[m
+[31m-| Nombre    | Edad |[m
+[31m-|-----------|------|[m
+[31m-| Juan      | 25   |[m
+[31m-| María     | 30   |[m
+[31m-| Antonio   | 28   |[m
+[31m-[m
+[31m-- Elemento 1[m
+[31m-- Elemento 2[m
+[31m-  - Subelemento A[m
+[31m-  - Subelemento B[m
+[31m-- Elemento 3[m
+[31m-[m
+[31m----[m
+[31m-##esto esta editado despues de crear el commit[m
+[31m-[m
+[31m-[m
+[31m-##este se edita despues del anterior[m
+\ No newline at end of file[m
